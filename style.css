@@ -1,0 +1,87 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Determination", monospace;
+    margin: 0;
+    padding: 30px;
+}
+
+.game-container {
+    max-width: 1500px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.ut-heading {
+    font-size: 4rem;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+}
+
+.ut-text {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.ut-textyellow {
+    font-size: 3rem;
+    color: yellow;
+    line-height: 1.6;
+    margin: 0;
+}
+
+
+.putinthemiddle {
+        text-align: center;
+}
+
+.wbox {
+    border: 5px solid white;
+    padding: 30px;
+    display: inline-block; 
+}
+
+.buttonut {
+    background-color: transparent;
+    color: yellow;
+    border: none;
+    padding: 5px 30px;
+    font-size: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: block;
+    font-family: "Determination", monospace;
+}
+
+
+/* credits
+*/
+
+.creditstxt {
+    color: whitesmoke;
+    cursor: wait;
+    font-size: 20px;
+    text-align: center; 
+}
+
+/* Undertale */
+
+.wboxcenter {
+    border: 5px solid white;
+    padding: 30px;
+    display: block; 
+    text-align: center;
+   
+    
+}
+
+
+.classunfinished {
+    color: orangered;
+    font-size: 40px;
+
+}
